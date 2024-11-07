@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block head %}
+
+{% endblock head %}
+
+{% block content %}
+<main>
+    <div class="content">
+  <article>
+      <h1 class="title">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %}</h1>
+      <p class="subtitle"><strong>{{ page.date | date(format="%B %d, %Y") }}</strong></p>
+
+      {{ page.content | safe }}
+  </article>
+  </div>
+</main>
+{% endblock content %}
