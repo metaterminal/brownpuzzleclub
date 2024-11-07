@@ -10,13 +10,13 @@ page_template = "list-page.html"
 <table>
     <tr>
         <td><img src="logo.png" width=300vw class="eboard-img"></td>
-        <td><b>Megan Carlson</b></td>
-        <td>Supreme Ruler of the Cosmos</td>
+        <td><b>Erin Finn</b></td>
+        <td>Supreme Ruler of the Known Cosmos</td>
     </tr>
     <tr>
         <td><img src="logo.png" width=300vw class="eboard-img"></td>
-        <td><b>Erin Finn</b></td>
-        <td>Supreme Ruler of the Cosmos</td>
+        <td><b>Megan Carlson</b></td>
+        <td>Supreme Ruler of the Unknown Cosmos</td>
     </tr>
     <tr>
         <td><img src="logo.png" width=300vw class="eboard-img"></td>
