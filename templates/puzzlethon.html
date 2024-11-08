@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="puzzlethon-container">
+  <div class="puzzlethon-box puzzlethon-image"><img src="/puzzlethon_logo.png" style="height: min(35vw, 300px);" alt="Puzzlethon logo."></div>
+  <div class="puzzlethon-box puzzlethon-text">Puzzlethon:<br> A 24-Hour Puzzlehunt</div>
+</div>
+
+<div class="content">
+{{ page.content | safe }}
+</div>
+{% endblock %}

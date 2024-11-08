@@ -4,6 +4,9 @@ html {
     line-height: 1.45;
     color: black;
     width: 100%;
+    --dark-blue: #0099ff;
+    --light-blue: #a5e2ff;
+    --content-back: white;
 }
 
 tml {
@@ -22,7 +25,7 @@ body {
   font-family: 'Rubik', sans-serif;
   font-weight: 500;
   line-height: 1.75;
-  background-color: #a5e2ff;
+  background-color: var(--light-blue);
   color: black;
   margin: 1em;
   display: flex;
@@ -30,7 +33,7 @@ body {
 }
 
 .content {
-  background-color: white;
+  background-color: var(--content-back);
   border-radius: 10px;
   display: block;
   float: none;
@@ -46,7 +49,7 @@ body {
 // Main page floating content
 
 .front-content {
-  background-color: white;
+  background-color: var(--content-back);
   border-radius: 10px;
   display: block;
   float: none;
@@ -146,11 +149,12 @@ h5 {font-size: 1.25rem;}
 
 p {
   margin: auto;
+  margin-top: 0.3rem;
 }
 
 
 a {
-  color: #0099ff;
+  color: var(--dark-blue);
   text-decoration: none;
   outline: 0;
 }
@@ -189,7 +193,7 @@ body > header, body > footer {
 // Navbar stuff
 
 body > nav {
-  background-color: #0099ff;
+  background-color: var(--dark-blue);
   color: black;
   font-weight: bold;
 }
@@ -262,6 +266,36 @@ body > nav {
   margin-top: 15px; 
   margin-bottom: 15px;
   border-radius: 50%;
+}
+
+// Puzzlethon stuff
+
+.puzzlethon-container {
+  display: flex;
+  justify-content: center;
+  gap: min(5vw, 50px);
+}
+
+.puzzlethon-box { 
+  margin-top: 5vh;
+  font-size: min(7vw, 60px);
+  //border: 1px solid black;
+}
+
+.puzzlethon-text {
+  background-color: var(--content-back);
+  border-radius: 20px;
+  color: black;
+  padding: 20px 30px;
+  max-width: 380px;
+  text-align: left;
+  border: 5px solid black;
+}
+
+.puzzlethon-image {
+  display: flex;               
+  justify-content: flex-end; 
+  align-items: right;
 }
 
 // Mobile table stuff

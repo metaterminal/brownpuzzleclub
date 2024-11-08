@@ -23,4 +23,4 @@ In 2024, <a href="https://www.brownpuzzlehunt.com">Brown Puzzlehunt</a> required
 
 ### Brown Puzzlehunt 2023
 
-In 2023, <a href="https://2023.brownpuzzlehunt.com/">Brown Puzzlehunt</a> asked puzzle-solvers to defeat an eldritch evil, Blueno, which threatened to destroy all of Brown University.
+In 2023, <a href="https://2023.brownpuzzlehunt.com/">Brown Puzzlehunt</a> asked puzzle-solvers to defeat an eldritch evil, Blueno, which threatened to destroy all of Providence.
