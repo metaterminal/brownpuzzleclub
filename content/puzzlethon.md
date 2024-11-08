@@ -5,9 +5,20 @@ template = "puzzlethon.html"
 
 ### What is this?
 
-Puzzlethon is an event where a number of puzzle enthusiasts write, test, and publish an entire puzzlehunt in 24 hours. 
+Puzzlethon is an event where we write, test, and publish an entire puzzlehunt in 24 hours. 
 
-Making a puzzlehunt requires all kinds of people with many different skillsets: we need writers, programmers, artists, testers, and more. 
+It's light-hearted, low-stakes, and a great way to get into writing puzzles if you're a Brown student.
+
+We'll also be livestreaming the event! If you're curious about taking a look behind the scenes to see what goes into writing a puzzlehunt, check it out!
+
+Making a puzzlehunt requires all kinds of people with many different skillsets: we need <span class="bold-text">writers</span>, <span class="bold-text">programmers</span>, <span class="bold-text">artists</span>, <span class="bold-text">testers</span>, and more. If you're interested in participating in Puzzlethon (and you're a Brown or RISD student), fill out this form! 
+
+
+### What's a puzzlehunt?
+
+A puzzlehunt is an event where teams of people compete to solve puzzles. These puzzles can be anything: word games, logic puzzles, video games, physical objects, or in-person challenges.
+
+For a (much larger) example, take a look at last year's <a href="https://www.brownpuzzlehunt.com">Brown Puzzlehunt</a>.
 
 ### When is it?
 
@@ -19,8 +30,20 @@ Puzzles will be released on November 24th, at noon ET.
 
 We are Brown Puzzle Club, the home of the puzzlehunting community at Brown!
 
-There's a little more information about who we are <a href="/">here</a>.
+There's a little more information about us <a href="/">here</a>.
+
+### Why are you doing this?
+
+A few reasons:
+
+<ul>
+    <li>1) It'll be fun! We like making things.</li>
+    <li>2) It's a great way for new writers to learn puzzle-writing in a smaller event.</li>
+    <li>3) We're looking to test our new tech stack before Winter break.</li>
+</ul>
 
 ### How can I be involved?
 
-If you
+If you're interested in participating in Puzzlethon (and you're a Brown or RISD student), fill out this form! 
+
+If you're not a Brown or RISD student, you can check out our livestream, and solve the puzzles once they release. (Come back later for more information!)

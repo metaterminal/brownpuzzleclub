@@ -9,12 +9,12 @@ page_template = "list-page.html"
 
 <table>
     <tr>
-        <td><img src="logo.png" width=300vw class="eboard-img"></td>
+        <td><img src="erinf.png" width=300vw class="eboard-img"></td>
         <td><b>Erin Finn</b></td>
         <td>Supreme Ruler of the Known Cosmos</td>
     </tr>
     <tr>
-        <td><img src="logo.png" width=300vw class="eboard-img"></td>
+        <td><img src="meganc.png" width=300vw class="eboard-img"></td>
         <td><b>Megan Carlson</b></td>
         <td>Supreme Ruler of the Unknown Cosmos</td>
     </tr>
@@ -39,8 +39,8 @@ page_template = "list-page.html"
         <td>Tech Director</td>
     </tr>
     <tr>
-        <td><img src="logo.png" width=300vw class="eboard-img"></td>
-        <td><b>Aren Guralp</b></td>
+        <td><img src="areng.png" width=300vw class="eboard-img"></td>
+        <td><b><a href="https://arenguralp.com/">Aren Guralp</a></b></td>
         <td>Orientation Hunt Director</td>
     </tr>
     <tr>
