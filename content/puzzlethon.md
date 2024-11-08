@@ -7,9 +7,9 @@ template = "puzzlethon.html"
 
 Puzzlethon is an event where we write, test, and publish an entire puzzlehunt in 24 hours. 
 
-It's light-hearted, low-stakes, and a great way to get into writing puzzles if you're a Brown student.
+It's light-hearted, low-stakes, and a great way to get into writing puzzles if you're a Brown/RISD student.
 
-We'll also be livestreaming the event! If you're curious about taking a look behind the scenes to see what goes into writing a puzzlehunt, check it out!
+We'll also be livestreaming the event. If you're curious about taking a look behind the scenes to see what goes into writing a puzzlehunt, check it out!
 
 Making a puzzlehunt requires all kinds of people with many different skillsets: we need <span class="bold-text">writers</span>, <span class="bold-text">programmers</span>, <span class="bold-text">artists</span>, <span class="bold-text">testers</span>, and more. If you're interested in participating in Puzzlethon (and you're a Brown or RISD student), fill out this form! 
 
@@ -36,11 +36,11 @@ There's a little more information about us <a href="/">here</a>.
 
 A few reasons:
 
-<ul>
-    <li>1) It'll be fun! We like making things.</li>
-    <li>2) It's a great way for new writers to learn puzzle-writing in a smaller event.</li>
-    <li>3) We're looking to test our new tech stack before Winter break.</li>
-</ul>
+<ol>
+    <li>It'll be fun! We like making things.</li>
+    <li>It's a great way for new writers to learn puzzle-writing.</li>
+    <li>We want to test our new tech stack before winter break.</li>
+</ol>
 
 ### How can I be involved?
 
