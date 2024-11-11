@@ -1,3 +1,1 @@
-This repo is no longer maintained. (The static site has been forked and now runs off of a private repository.)
-
-Nonetheless, if you want to look at how the website is broadly structured behind-the-scenes, here it is!
+This repo is no longer maintained, and the Brown Puzzle Club website is now deployed through [this repository](https://github.com/Brown-Puzzle-Club/bph-static) under the Brown Puzzle Club organization.
